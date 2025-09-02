@@ -1,0 +1,3 @@
+Place your case study PDF as "case-study.pdf" in this folder before deploying.
+
+
